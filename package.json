@@ -1,0 +1,29 @@
+{
+  "name": "yui-dom-core",
+  "version": "0.0.1",
+  "description": "A commonjs wrapper for yui-dom-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoubin/yui-dom-core.git"
+  },
+  "keywords": [
+    "yui",
+    "dom"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/yui-dom-core/issues"
+  },
+  "homepage": "https://github.com/zoubin/yui-dom-core#readme",
+  "devDependencies": {
+    "eslint": "^1.3.1"
+  },
+  "dependencies": {
+    "getp": "^1.0.0"
+  }
+}
